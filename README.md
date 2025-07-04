@@ -1,4 +1,4 @@
-### 안녕하세요!👋 기능을 만드는 것을 넘어, 이유를 이해하고 설계를 고민하는 개발자 홍정화입니다.
+## 안녕하세요!👋 기능을 만드는 것을 넘어, 이유를 이해하고 설계를 고민하는 개발자 홍정화입니다.
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdan31)](https://solved.ac/ekdan31/)
 <!--
