@@ -1,9 +1,7 @@
-<div align="center">
-
 ## 안녕하세요!👋  기능을 만드는 것을 넘어, 이유를 이해하고 설계를 고민하는 개발자 홍정화입니다.
 
----
-
+<div align="center">
+  
 📜 **Skill**
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java">
@@ -15,6 +13,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="GIT">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GITHUB">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+<br> 
+<br>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdan31)](https://solved.ac/ekdan31/)
 
